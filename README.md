@@ -7,4 +7,4 @@ For the moment, the models are designed and built with Solidworks 2018, because 
 ## Comments
 
 Github is probably not the best platform to store CAD files. However, it has the merit of allowing a simple sharing.
-Platforms such as grabcad might be better places to store CAD models. Unfortunately, Solidworks 2018 is not yet supported on it.
+Platforms such as  [grabcad](https://grabcad.com/)might be better places to store CAD models. Unfortunately, Solidworks 2018 is not yet supported on it.
