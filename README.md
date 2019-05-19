@@ -6,7 +6,7 @@ For the moment, the models are designed and built with Solidworks 2018, because 
 
 ## Folder organization
 
-Folder are being re-organized and renamed: this is why the structure and file names will change in the coming days.
+Folder are being re-organized, renamed and translated: this is why the structure and file names will change in the coming days.
 
 ## Comments
 
