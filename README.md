@@ -4,9 +4,14 @@ This repository contains the gribot 3D models for the complete robot family.
 
 For the moment, the models are designed and built with Solidworks 2018, because open source CAD software is still a little bit limited. However, as soon as possible, we will migrate all 3D gribot models to an Open Source platform.
 
-## Folder organization
+## Folder and file organization
 
-Folder are being re-organized, renamed and translated: this is why the structure and file names will change in the coming days.
+There are some rules to help organizing folders of the 3D modem
+
+* Each assembly has to have its own directory, containing all its own elements.
+* A folder name should start with a capital letter
+* A file name, part, assembly, should start with a capital letter
+
 
 ## Comments
 
